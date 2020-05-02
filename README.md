@@ -119,8 +119,4 @@ COVID-19 Tracker app is a free and open source project. Any contributions are we
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
