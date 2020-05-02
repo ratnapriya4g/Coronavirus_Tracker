@@ -47,6 +47,7 @@ The android app lets you:
 
 ## Dashbroad Screen
 
+
 ![Dashbroad](https://github.com/ratnapriya4g/cornavirus_tracker/blob/master/lib/Screenshots/Dashbroad%20Screen/home_page.jpeg)
 ![Dashbroad](https://github.com/ratnapriya4g/cornavirus_tracker/blob/master/lib/Screenshots/Dashbroad%20Screen/home_page1.jpeg)
 ![Dashbroad](https://github.com/ratnapriya4g/cornavirus_tracker/blob/master/lib/Screenshots/Dashbroad%20Screen/home_page2.jpeg)
@@ -57,7 +58,6 @@ The android app lets you:
 
 ![Prevention Screen](https://github.com/ratnapriya4g/cornavirus_tracker/blob/master/lib/Screenshots/Prevention%20Screen/prevention_page.jpeg)
 ![Prevention Screen](https://github.com/ratnapriya4g/cornavirus_tracker/blob/master/lib/Screenshots/Prevention%20Screen/prevention_page0.jpeg)
-
 
 
 ## Select Country Screen
