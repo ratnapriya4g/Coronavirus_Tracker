@@ -47,19 +47,33 @@ The android app lets you:
 
 ## Dashbroad Screen
 
-![Dashbroad](https://github.com/ratnapriya4g/cornavirus_tracker/tree/master/lib/Screenshots/Dashbroad%20Screen)
+![Dashbroad](https://github.com/ratnapriya4g/cornavirus_tracker/blob/master/lib/Screenshots/Dashbroad%20Screen/home_page.jpeg)
+![Dashbroad](https://github.com/ratnapriya4g/cornavirus_tracker/blob/master/lib/Screenshots/Dashbroad%20Screen/home_page1.jpeg)
+![Dashbroad](https://github.com/ratnapriya4g/cornavirus_tracker/blob/master/lib/Screenshots/Dashbroad%20Screen/home_page2.jpeg)
+
 
 ## Prevention Screen
 
 
-![Prevention Screen](https://github.com/ratnapriya4g/cornavirus_tracker/tree/master/lib/Screenshots/Prevention%20Screen)
+![Prevention Screen](https://github.com/ratnapriya4g/cornavirus_tracker/blob/master/lib/Screenshots/Prevention%20Screen/prevention_page.jpeg)
+![Prevention Screen](https://github.com/ratnapriya4g/cornavirus_tracker/blob/master/lib/Screenshots/Prevention%20Screen/prevention_page0.jpeg)
+
 
 
 ## Select Country Screen
 
 
+![Select Country Screen](https://github.com/ratnapriya4g/cornavirus_tracker/blob/master/lib/Screenshots/Country%20details/Country_details_page.jpeg)
+![Select Country Screen](https://github.com/ratnapriya4g/cornavirus_tracker/blob/master/lib/Screenshots/Country%20details/country_list%2Bpage.jpeg)
+![Select Country Screen](https://github.com/ratnapriya4g/cornavirus_tracker/blob/master/lib/Screenshots/Country%20details/search_country_page.jpeg)
 
-![Select Country Screen]()
+
+## Select Country Screen
+
+
+![About us](https://github.com/ratnapriya4g/cornavirus_tracker/blob/master/lib/Screenshots/About%20us%20screen/aboutUs_page.jpeg)
+![About us](https://github.com/ratnapriya4g/cornavirus_tracker/blob/master/lib/Screenshots/About%20us%20screen/aboutUs_page0.jpeg)
+
 
 # Permission
 
@@ -67,37 +81,37 @@ The android app lets you:
 On Android versions prior to Android 6.0, Covid-19 Track requires the following permissions:
 
 
-Full Network Access.
+* Full Network Access.
 
 
-View Network Connections.
+* View Network Connections.
 
 
-It uses the network data to update the app contents regularly and provide the latest information on all countries with updated visual representation. No use of data in background.
+* It uses the network data to update the app contents regularly and provide the latest information on all countries with updated visual representation. No use of data in background.
 
 ## Contributing
 
 COVID-19 Tracker app is a free and open source project. Any contributions are welcome. Here are a few ways you can help:
 
-Report bugs and make suggestions.
+* Report bugs and make suggestions.
 
 
-Open a pull Request
+* Open a pull Request
 
 
 ## Credits
 
 
-  Thanks [COVID-19 API](https://covidtracking.com/api) for country data.
+* Thanks [COVID-19 API](https://covidtracking.com/api) for country data.
 
 
-Thanks [COVID19-India API](https://api.covid19india.org/) for India data.
+* Thanks [COVID19-India API](https://api.covid19india.org/) for India data.
 
 
-Thanks [Google Fonts](https://fonts.google.com/) for the app fonts.
+* Thanks [Google Fonts](https://fonts.google.com/) for the app fonts.
 
 
-Thanks FontAwesome (https://fontawesome.com/) for icons.
+* Thanks FontAwesome (https://fontawesome.com/) for icons.
 
 
 
