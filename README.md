@@ -111,7 +111,7 @@ COVID-19 Tracker app is a free and open source project. Any contributions are we
 * Thanks [Google Fonts](https://fonts.google.com/) for the app fonts.
 
 
-* Thanks FontAwesome (https://fontawesome.com/) for icons.
+* Thanks [FontAwesome](https://fontawesome.com/) for icons.
 
 
 
