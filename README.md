@@ -45,9 +45,21 @@ The android app lets you:
 
 # Screenshots
 
-# Dashbroad Screen
+## Dashbroad Screen
 
-![SplashScreen](https://github.com/ratnapriya4g/cornavirus_tracker/blob/master/lib/Screenshots/home_page.jpeg)
+![Dashbroad](https://github.com/ratnapriya4g/cornavirus_tracker/tree/master/lib/Screenshots/Dashbroad%20Screen)
+
+## Prevention Screen
+
+
+![Prevention Screen](https://github.com/ratnapriya4g/cornavirus_tracker/tree/master/lib/Screenshots/Prevention%20Screen)
+
+
+## Select Country Screen
+
+
+
+![Select Country Screen]()
 
 # Permission
 
@@ -63,7 +75,7 @@ View Network Connections.
 
 It uses the network data to update the app contents regularly and provide the latest information on all countries with updated visual representation. No use of data in background.
 
-# Contributing
+## Contributing
 
 COVID-19 Tracker app is a free and open source project. Any contributions are welcome. Here are a few ways you can help:
 
@@ -73,7 +85,7 @@ Report bugs and make suggestions.
 Open a pull Request
 
 
-# Credits
+## Credits
 
 
   Thanks [COVID-19 API](https://covidtracking.com/api) for country data.
