@@ -78,7 +78,7 @@ The android app lets you:
 # Permission
 
 
-On Android versions prior to Android 6.0, Covid-19 Track requires the following permissions:
+On Android versions prior to Android 6.0, Covid-19 Tracker requires the following permissions:
 
 
 * Full Network Access.
