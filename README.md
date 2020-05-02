@@ -16,7 +16,7 @@ It helps to check the status of Coronavirus records according to different count
 The android app lets you:
 
 
-[View the total cases, and all the active ,recovered, deaths and all the details about the new cases with chart representations in the home screen.]
+View the total cases, and all the active ,recovered, deaths and all the details about the new cases with chart representations in the home screen.
 
 
 [Select countries specifically for their specific details.]
