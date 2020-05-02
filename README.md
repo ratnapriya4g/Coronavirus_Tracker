@@ -1,5 +1,7 @@
 # COVID-19 Tracker
 
+![COVID_19 Tracker Logo](https://github.com/ratnapriya4g/cornavirus_tracker/blob/master/lib/Screenshots/app_images.png)
+
 Covid-19 Track is free and Open Source, Cross Platform Application developed using Flutter.
 
 Download the Latest version from the below links.
@@ -15,38 +17,37 @@ It helps to check the status of Coronavirus records according to different count
 
 The android app lets you:
 
-
-View the total cases, and all the active ,recovered, deaths and all the details about the new cases with chart representations in the home screen.
-
-
-[Select countries specifically for their specific details.]
+* View the total cases, and all the active ,recovered, deaths and all the details about the new cases with chart representations in the home screen.
 
 
-[Completely ad-free.]
+* Select countries specifically for their specific details.
 
 
-[View the total details on countries with Activ Cases, Recovered Cases, Confirmed Cases, Today Cases, Today Cases and Deaths Cases.]
+* Completely ad-free.
 
 
-[Gets updated regularly.]
+* View the total details on countries with Activ Cases, Recovered Cases, Confirmed Cases, Today Cases, Today Cases and Deaths Cases.
 
 
-[Has a minimal user interface.]
+* Gets updated regularly.
 
 
-[View Detailed information on all the countries in the world.]
+* Has a minimal user interface.
 
 
-[Information on symptoms and prevention of Covid-19]
+* View Detailed information on all the countries in the world.
 
 
-[Information about CORONAVIRUS]
+* Information on symptoms and prevention of Covid-19.
+
+
+* Information about CORONAVIRUS
 
 # Screenshots
 
 # Dashbroad Screen
- 
- 
+
+![SplashScreen](https://github.com/ratnapriya4g/cornavirus_tracker/blob/master/lib/Screenshots/home_page.jpeg)
 
 # Permission
 
@@ -88,7 +89,12 @@ Thanks FontAwesome (https://fontawesome.com/) for icons.
 
 
 
-# License
+## License
 
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-This application is released under GNU GPLv3 (see LICENSE). Some of the used libraries are released under different licenses.
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+* Inspiration
+* etc
