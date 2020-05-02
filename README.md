@@ -2,14 +2,14 @@
 
 ![COVID_19 Tracker Logo](https://github.com/ratnapriya4g/cornavirus_tracker/blob/master/lib/Screenshots/app_images.png)
 
-Covid-19 Track is free and Open Source, Cross Platform Application developed using Flutter.
+Covid-19 Tracker is free and Open Source, Cross Platform Application developed using Flutter.
 
 Download the Latest version from the below links.
 - [Download the App](https://drive.google.com/file/d/1YogIgqNInvLBFgtm2Qy8BaKbBy6Y73cg/view?usp=drivesdk)
 
 # About
 
-Covid-19 Track tracks the active, recovered and deaths due to corona virus all over the world and updates daily.
+Covid-19 Tracker tracks the active, recovered and deaths due to corona virus all over the world and updates daily.
 This Mobile application allows you to select different countries to obtain the results seperately with graphical visualisations.
 It helps to check the status of Coronavirus records according to different countries, on worldwide records also and individual country records also.
 
