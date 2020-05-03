@@ -9,9 +9,7 @@ Download the Latest version from the below links.
 
 # About
 
-Covid-19 Tracker tracks the active, recovered and deaths due to corona virus all over the world and updates daily.
-This Mobile application allows you to select different countries to obtain the results seperately with graphical visualisations.
-It helps to check the status of Coronavirus records according to different countries, on worldwide records also and individual country records also.
+Covid-19 Tracker tracks active, recovered, and deaths due to coronavirus all over the world and updates daily. This Mobile application allows you to select different countries to obtain the results separately with graphical visualizations. It helps to check the status of Coronavirus records according to different countries, on worldwide records also and individual country records also.
 
 # Feaures
 
